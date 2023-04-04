@@ -3,18 +3,18 @@
 
 ---
 
-### Обо мне:
+### About me:
 
-Я начинающий back-end разработчик. Мой путь в it начался менее года назад, я решил попробовать себя в новой сфере, пробовал С++, PHP и остановился на Python. Из направлений больше всего мне понравилась веб разработка. С сентября 2022 года я занимаюсь самообразованием, а именно веб разработкой!
+I am a beginner back-end developer. I started my journey in IT less than a year ago, I decided to try myself in a new field, tried C++, PHP, and settled on Python. Among the directions, I liked web development the most. Since September 2022, I have been self-educating in web development!
 
-- Изучаю веб-разработку.
-- Хочу освоить новую профеcсию и найти работу.
+- I am currently learning web development.
+- I want to master a new profession and find a job.
 
-- Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:SAZH.user@gmail.com)
+- How to contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:SAZH.user@gmail.com)
 
 ---
 
-### Социальные сети:
+### Social networks:
 
   <div id="badges">
     <a href="" target="_blank">
@@ -27,7 +27,7 @@
 
 ---
 
-### 💻 Стек:
+### 💻 Stack:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
