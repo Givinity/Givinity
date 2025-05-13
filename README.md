@@ -17,7 +17,7 @@ I am a beginner back-end developer. I started my journey in IT less than a year 
 ### Social networks:
 
   <div id="badges">
-    <a href="" target="_blank">
+    <a href="https://t.me/givinity" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
     <a href="https://vk.com/givinity" target="_blank">
