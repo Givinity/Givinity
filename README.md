@@ -5,10 +5,24 @@
 
 ### About me:
 
-I am a beginner back-end developer. I started my journey in IT less than a year ago, I decided to try myself in a new field, tried C++, PHP, and settled on Python. Among the directions, I liked web development the most. Since September 2022, I have been self-educating in web development!
+I am a backend developer with 2 years of experience in building and maintaining web applications.
+My main stack is PHP and Python, and I enjoy working on high-performance backend systems and APIs.
 
-- I am currently learning web development.
-- I want to master a new profession and find a job.
+💻 Experienced in backend development using PHP (1C-Bitrix, Laravel) and Python (Django, Flask).
+
+🌐 Strong knowledge of databases (MySQL, PostgreSQL, SQLite) and REST API development.
+
+⚙️ Familiar with Docker, Git, and modern development practices.
+
+📚 Always learning new technologies to grow as a Full-Stack Developer.
+
+Goals
+
+🚀 Improve my skills in Python backend and modern frameworks.
+
+🔍 Dive deeper into system architecture and high-load solutions.
+
+💼 Find exciting projects and professional opportunities.
 
 - How to contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:SAZH.user@gmail.com)
 
